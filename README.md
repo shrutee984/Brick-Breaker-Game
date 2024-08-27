@@ -23,17 +23,3 @@ A simple Brick Breaker game built in Java using `Swing` and `JFrame`. The object
 
 ## Screenshot
 
-_(Add screenshots here to show how the game looks in action.)_
-
-## Installation and Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/brick-breaker.git
-    ```
-2. Open the project in your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA).
-3. Compile and run the `Main.java` file to start the game.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
