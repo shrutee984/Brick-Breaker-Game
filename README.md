@@ -1,10 +1,10 @@
 # Brick Breaker Game
 
 ## Features:
- Brick Map Generation: The game dynamically generates a brick layout at the start of the game using a MapGenerator class.
-Scoring System: Players earn 5 points for each brick they break, with the score displayed at the top.
-Player Control: Move the paddle left or right using arrow keys to prevent the ball from falling.
-Game Over and Win Conditions: If the ball falls past the paddle, the game ends with a "Game Over" message. If all the bricks are broken, the player wins.
+-Brick Map Generation: The game dynamically generates a brick layout at the start of the game using a MapGenerator class.
+-Scoring System: Players earn 5 points for each brick they break, with the score displayed at the top.
+-Player Control: Move the paddle left or right using arrow keys to prevent the ball from falling.
+-Game Over and Win Conditions: If the ball falls past the paddle, the game ends with a "Game Over" message. If all the bricks are broken, the player wins.
 
 
 ## How to Play:
